@@ -1,0 +1,1 @@
+function sagiri(o){console.log("test "+o)}hello("asdf");
